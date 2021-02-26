@@ -8,6 +8,11 @@ namespace ConsoleApp1
         {
             int x = 0;
             Console.WriteLine(x);
+
+            int i = 1;
+            int j = 2;
+            int k = i + j;
+            Console.WriteLine(k);
         }
     }
 }
